@@ -1,4 +1,4 @@
-# A3T1 STM32F407VET6 UART
+# A3T1 STM32F407VET6 UART Hello World
 
 **Assignment Description:** Read 4 Way DIP switch and print the status in putty terminal via UART communication
 
