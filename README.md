@@ -41,6 +41,10 @@ HAL_UART_Transmit : Transmit data to UART
 
 <center><img src="/pictures/putty_configuration.png"></center>
 
+## Putty Terminal Output
+
+<center><img src="/pictures/putty_terminal_output.png"></center>
+
 ## References
 
 [1] Board Details and Schematics:\
